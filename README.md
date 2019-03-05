@@ -17,3 +17,9 @@ Pass/Fail 평가이므로 참여가 가장 중요합니다.
 [한 권으로 그리는 컴퓨터과학 로드맵](http://www.insightbook.co.kr/12780)
 
 ![한 권으로 그리는 컴퓨터과학 로드맵](http://www.insightbook.co.kr/wp-content/uploads/2018/04/%ED%91%9C%EC%A7%80%EC%9E%85%EC%B2%B4-660x783.jpg)
+
+## 수업에 사용할 소프트웨어
+
+[Jandi](https://fresh2019.jandi.com/)
+
+[CoLab](https://colab.research.google.com/)
