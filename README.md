@@ -15,3 +15,5 @@ Pass/Fail 평가이므로 참여가 가장 중요합니다.
 ## 교재
 
 [한 권으로 그리는 컴퓨터과학 로드맵](http://www.insightbook.co.kr/12780)
+
+![한 권으로 그리는 컴퓨터과학 로드맵](http://www.insightbook.co.kr/wp-content/uploads/2018/04/%ED%91%9C%EC%A7%80%EC%9E%85%EC%B2%B4-660x783.jpg)
