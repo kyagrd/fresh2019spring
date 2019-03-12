@@ -20,3 +20,8 @@ Pass/Fail 평가이므로 참여가 가장 중요합니다.
 [Jandi](https://fresh2019.jandi.com/)
 
 [CoLab](https://colab.research.google.com/)
+
+## 전공 관련 추천 웹툰
+
+* 야공만 http://www.bloter.net/archives/259330
+* 만화로 나누는 F/OSS 이야기 https://joone.net/
