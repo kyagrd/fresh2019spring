@@ -24,5 +24,5 @@ Pass/Fail 평가이므로 참여가 가장 중요합니다.
 ## 전공 관련 추천 웹툰
 
 * [야밤의 공대생 만화](https://www.facebook.com/engineertoon)
-    [관련기사](http://www.bloter.net/archives/259330)
+     - [관련기사](http://www.bloter.net/archives/259330)
 * [만화로 나누는 F/OSS 이야기](https://joone.net/)
